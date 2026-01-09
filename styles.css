@@ -152,15 +152,18 @@ a {
 
 .hero-note {
   font-size: 0.85rem;
-  opacity: 0.9;
+  opacity: 0.7;
+  margin-top: 1.2rem;
+  line-height: 1.4;
 }
+
 
 .hero-box {
   background: rgba(10, 26, 51, 0.9);
   border-radius: var(--radius-card);
   padding: 1.4rem 1.2rem;
   box-shadow: var(--shadow-card);
-  border: 1px solid rgba(148, 163, 184, 0.4);
+  border: 1.5px solid rgba(148, 163, 184, 0.4);
 }
 
 .hero-box-title {
@@ -171,7 +174,7 @@ a {
 
 .hero-box-list {
   list-style: none;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .hero-box-list li {
